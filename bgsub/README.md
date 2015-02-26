@@ -11,8 +11,11 @@ This projects implements the 1-D Gaussian background subtraction algorithm. Each
 * Initial threshold (k) and temporal window (𝜌) values are set based on trail and error. 
 
 ###Instructions to Run
-1. Download image sequence from here: [Office Dataset](http://wordpress-jodoin.dmi.usherb.ca/static/dataset/baseline/office.zip)
-2. Extract images into Images directory. (Image file names format: inxxxxxx.jpg
-3. First 619 images are used for generating binary threshold version of image in000620.jpg. Adjust variables as need be.
+
+1. Install and configure OpenCV.
+2. Download image sequence from here: [Office Dataset](http://wordpress-jodoin.dmi.usherb.ca/static/dataset/baseline/office.zip)
+3. Extract images into Images directory. (Image file names format: inxxxxxx.jpg
+4. First 619 images are used for generating binary threshold version of image in000620.jpg. Adjust variables as need be.
+5. Compile and run.
 
   
