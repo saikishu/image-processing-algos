@@ -1,0 +1,1 @@
+Download and extract image sequence from [Office Dataset](http://wordpress-jodoin.dmi.usherb.ca/static/dataset/baseline/office.zip) into this dir.
