@@ -15,7 +15,7 @@ Connected regions are painted with different colors.
 ###Instructions to Run
 1. Install and configure OpenCV.
 2. Compile and run.
-3. output.jpg will be produced in the same dir as the executable.
+3. output.jpg will be generated in the same dir as the executable.
 
 
 
