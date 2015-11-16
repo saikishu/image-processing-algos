@@ -18,6 +18,7 @@ It's a technique in computer vision to detect connected regions.
 
 ###Lucas Kanade Optical Flow
 Lucas-Kanade is widely used method for optical flow estimation.
+
 [Wikipedia: Lucas-Kanade Method](http://en.wikipedia.org/wiki/Lucas%E2%80%93Kanade_method)
 
 
